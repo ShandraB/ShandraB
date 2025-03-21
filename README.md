@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning I.T. Support, Cybersecurity, and Coding.
 - 💞️ I’m looking to collaborate on projects to add to my resume.
 - 📫 How to reach me: 19tadaganiarracht91@gmail.com
-- ⚡ 
+- ⚡ I'm new here and still learning how it all works.
 
 <!---
 ShandraB/ShandraB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
